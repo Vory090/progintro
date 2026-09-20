@@ -1,3 +1,3 @@
 text ze cvičení
-Under development. 
-z magiku
+Under development.
+z fyziku
