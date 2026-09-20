@@ -1,3 +1,1 @@
-text ze cvičení
-Under development.
-z onlinu
+upraveno v větvi conflict
