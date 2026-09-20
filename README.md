@@ -1,1 +1,3 @@
-upraveno v větvi conflict
+text ze cvičení
+Under development.
+z fyziku
